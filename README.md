@@ -10,7 +10,7 @@ This project was made by using HTML, CSS, Javascript, Bulma, the Grammarly API, 
 
 ## Usage
 
-* Please click on the following link of the deployed website, https://leeclaire156.github.io/Lets-Cook/
+* Please click on the following link of the deployed website, https://VenBak.github.io/Lets-Cook/
 
 * The application should appear as so on screens upon load if the user has never used the application:
 ![Home page if never been used](./Assets/Images/Usage-Screenshots/Home-Page-Clean.PNG)
